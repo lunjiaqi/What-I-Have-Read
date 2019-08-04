@@ -4,6 +4,7 @@
 | :---: | :---: |
 | A survey of cross-lingual word embedding models||
 | Tuning Multilingual Transformers for Named Entity Recognition on Slavic Languages ||
+| Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies | ACL19 |
 | Shared-Private Bilingual Word Embeddings for Neural Machine Translation | ACL19 |
 | How multilingual is Multilingual BERT?|ACL19|
 | Multilingual Constituency Parsing with Self-Attention and Pre-Training | ACL19 |
