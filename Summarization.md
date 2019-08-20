@@ -67,6 +67,7 @@
 ## Dataset
 | Paper | Conference |
 | :---: | :---: |
+| auto-hMDS: Automatic Construction of a Large Heterogeneous Multilingual Multi-Document Summarization Corpus | |
 | Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
 | NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies||
 | TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks | ACL19 |
