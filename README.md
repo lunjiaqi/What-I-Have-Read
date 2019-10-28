@@ -25,6 +25,8 @@
   * [Imitation Learning](./Imitation-Learning.md)
   * [Decode](./Decode.md)
   * [Textual Adversarial Attack and Defense](./Textual-Adversarial-Attack-and-Defense.md)
+  * [Data Augmentation](./Data-Augmentation.md)
+  * [Others](./Others.md)
 
   
 ## Slides
@@ -44,6 +46,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [NIPS19-Episodic Memory in Lifelong Language Learning](slides/paper-slides/Episodic%20Memory%20in%20Lifelong%20Language%20Learning.pdf)
 * [ACL19-Dynamically Fused Graph Network for Multi-hop Reasoning](slides/paper-slides/Dynamically%20Fused%20Graph%20Network%20for%20Multi-hop%20Reasoning.pdf)
 * [NAACL19-Linguistic Knowledge and Transferability of Contextual Representations](slides/paper-slides/Linguistic%20Knowledge%20and%20Transferability%20of%20Contextual%20Representations.pdf)
 * [NAACL19-Text Generation from Knowledge Graphs with Graph Transformers](slides/paper-slides/Text%20Generation%20from%20Knowledge%20Graphs%20with%20Graph%20Transformers.pdf)
@@ -58,6 +61,8 @@
 * [ACL17-Deep Multitask Learning for Semantic Dependency Parsing](slides/paper-slides/Deep%20Multitask%20Learning%20for%20Semantic%20Dependency%20Parsing.pdf)
 
 ### Notes
+* [EMNLP19 and NIPS19 Notes](slides/notes/EMNLP19_and_NIPS19_Notes.pdf)
+* [Cross-Lingual](./slides/notes/x-lingual-v1.0.pdf)
 * [GAN in Text Generation](slides/notes/GAN%20in%20Text%20Generation.pdf)
 * [Boosting](slides/notes/Boosting.pdf)
 * [HMM](slides/notes/HMM.pdf)
