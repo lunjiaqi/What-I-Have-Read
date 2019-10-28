@@ -11,38 +11,9 @@
   * [Concept-map-based](#concept-map-based)
   * [Related](#related)
 
-## Dialogue 
-| Paper | Conference |
-| :---: | :---: |
-| Automatic Dialogue Summary Generation for Customer Service |KDD19|
-| Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations |ASRU19 |
-| Abstractive Dialog Summarization with Semantic Scaffolds | ICLR20 under review |
-| Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization | ACL19 |
-| Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning | WWW19 |
-| Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization | ACL18 |
-| Abstractive Dialogue Summarization with Sentence-Gated Modeling Optimized by Dialogue Acts | SLT18 |
-| Abstractive Summarization of Spoken and Written Conversation | arxiv |
-| Dial2Desc: End-to-end Dialogue Description Generation | arxiv |
-| Abstractive Meeting Summarization Using Dependency Graph Fusion | WWW15 |
-| Summarizing Decisions in Spoken Meetings | ACL11 |
-
-## Pre-train Based
-| Paper | Conference |
-| :---: | :---: |
-| Make Lead Bias in Your Favor- A Simple and Effective Method for News Summarization |ICLR20 under review |
-| Text Summarization with Pretrained Encoders | EMNLP19 |
-| HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization | ACL19 |
-| MASS: Masked Sequence to Sequence Pre-training for Language Generation|ICML19|
-| Pretraining-Based Natural Language Generation for Text Summarization||
-| Fine-tune BERT for Extractive Summarization||
-| Unified Language Model Pre-training for Natural Language Understanding and Generation |NIPS19|
-| Self-Supervised Learning for Contextualized Extractive Summarization |ACL19 |
-| Efficient Adaptation of Pretrained Transformers for Abstractive Summarization ||
-
 ## Multi-Document
 | Paper | Conference |
 | :---: | :---: |
-| Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization | EMNLP19 |
 | Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization|ACL19|
 | Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
 | Hierarchical Transformers for Multi-Document Summarization | ACL19 |
@@ -56,11 +27,11 @@
 | 基于文档语义图的中文多文档摘要生成机制|(2009)|
 | Event-Centric Summary Generation| (2004) |
 
+
+
 ## Cross-Lingual
 | Paper | Conference |
 | :---: | :---: |
-| Global Voices: Crossing Borders in Automatic News Summarization | EMNLP19 |
-| NCLS: Neural Cross-Lingual Summarization | EMNLP19 |
 | Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention | ACL19 |
 | A Robust Abstractive System for Cross-Lingual Summarization|NAACL19|
 | Zero-Shot Cross-Lingual Neural Headline Generation|IEEE/ACM TRANSACTIONS 18|
@@ -69,6 +40,17 @@
 |Phrase-based Compressive Cross-Language Summarization|ACL15|
 |Abstractive Cross-Language Summarization via Translation Model Enhanced Predicate Argument Structure Fusing|IEEE/ACM Trans|
 |Cross-language document summarization via extraction and ranking of multiple summaries||
+
+## Pre-train Based
+| Paper | Conference |
+| :---: | :---: |
+|HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization|ACL19|
+| MASS: Masked Sequence to Sequence Pre-training for Language Generation|ICML19|
+| Pretraining-Based Natural Language Generation for Text Summarization||
+| Fine-tune BERT for Extractive Summarization||
+| Unified Language Model Pre-training for Natural Language Understanding and Generation||
+|Self-Supervised Learning for Contextualized Extractive Summarization|ACL19|
+| Efficient Adaptation of Pretrained Transformers for Abstractive Summarization ||
 
 
 ## Unsupervised
@@ -85,7 +67,6 @@
 ## Dataset
 | Paper | Conference |
 | :---: | :---: |
-|Learning towards Abstractive Timeline Summarization|IJCAI19|
 | auto-hMDS: Automatic Construction of a Large Heterogeneous Multilingual Multi-Document Summarization Corpus | |
 | Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
 | NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies||
@@ -106,29 +87,28 @@
 | :---: | :---: |
 | How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 | Multimodal Abstractive Summarization for How2 Videos | ACL19 |
-| Multimodal Abstractive Summarization for Open-Domain Videos | |
-| Multi-modal Summarization for Asynchronous Collection of Text, Image,
-Audio and Video | EMNLP17 |
+
+## Meeting 
+| Paper | Conference |
+| :---: | :---: |
+| Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning|WWW19|
+| Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization | ACL18 |
 
 
 ## Concept-map-based
 | Paper | Conference |
 | :---: | :---: |
-| Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization|NAACL19|
-| Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps | EMNLP17 |
+|Fast Concept Mention Grouping for Concept Map–based Multi-Document Summarization|NAACL19|
+|Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
 
-## Timeline
+
+## Related
 | Paper | Conference |
 | :---: | :---: |
-|Learning towards Abstractive Timeline Summarization|IJCAI19|
+| Growing Story Forest Online from Massive Breaking News|CIKM17|
 
-
-## Others
 | Paper | Conference |
 | :---: | :---: |
-|Mem2Mem-Learning to Summarize Long Texts with Memory-to-Memory Transfer|ICLR20 under review|
-| Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses | EMNLP19 |
-| Neural Extractive Text Summarization with Syntactic Compression | EMNLP19 |
 |Inducing Document Structure for Aspect-based Summarization|ACL19|
 |Summary Refinement through Denoising | RANLP 2019|
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
