@@ -3,6 +3,8 @@
 | Paper | Conference |
 | :---: | :---: |
 | A survey of cross-lingual word embedding models||
+|Cross-Lingual Dependency Parsing Using Code-Mixed TreeBank|EMNLP19|
+|Explicit Cross-lingual Pre-training for Unsupervised Machine Translation|EMNLP19|
 | Tuning Multilingual Transformers for Named Entity Recognition on Slavic Languages ||
 | Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies | ACL19 |
 | Shared-Private Bilingual Word Embeddings for Neural Machine Translation | ACL19 |
