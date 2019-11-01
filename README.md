@@ -1,11 +1,5 @@
 # What I Have Read
 
-> Read papers in other fields whenever possible.
-> 
-> Read papers from other conferences whenever possible.
-> 
-> Read as many papers as possible.
-
 * [What I Have Read](#what-i-have-read)
   * [Slides](#slides)
      * [Summarization](#Summarization)
