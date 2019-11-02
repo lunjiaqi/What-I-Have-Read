@@ -40,6 +40,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [ACL19-Multimodal Abstractive Summarization for How2 Videos]()
 * [NIPS19-Episodic Memory in Lifelong Language Learning](slides/paper-slides/Episodic%20Memory%20in%20Lifelong%20Language%20Learning.pdf)
 * [ACL19-Dynamically Fused Graph Network for Multi-hop Reasoning](slides/paper-slides/Dynamically%20Fused%20Graph%20Network%20for%20Multi-hop%20Reasoning.pdf)
 * [NAACL19-Linguistic Knowledge and Transferability of Contextual Representations](slides/paper-slides/Linguistic%20Knowledge%20and%20Transferability%20of%20Contextual%20Representations.pdf)
