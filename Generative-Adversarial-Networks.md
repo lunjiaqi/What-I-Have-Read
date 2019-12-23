@@ -8,6 +8,8 @@
 |Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation|EMNLP18|
 |SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks|IJCAI18|
 |Long text generation via adversarial training with leaked information|AAAI18|
+|Adversarial Text Generation via Feature-Mover’s Distance|NIPS18|
+|Adversarial Text Generation via Feature-Mover’s Distance|NIPS18|
 |Adversarial learning for neural dialogue generation||
 |Adversarial ranking for language generation|NIPS17|
 |SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient|AAAI17|

@@ -14,6 +14,8 @@
 ## Dialogue 
 | Paper | Conference |
 | :---: | :---: |
+|【Abstractive】SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization||
+|【Extractive】Legal Summarization for Multi-role Debate Dialogue via Controversy Focus Mining and Multi-task Learning|CIKM19|
 | Automatic Dialogue Summary Generation for Customer Service |KDD19|
 | Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations |ASRU19 |
 | Abstractive Dialog Summarization with Semantic Scaffolds | ICLR20 under review |
@@ -25,6 +27,7 @@
 | Dial2Desc: End-to-end Dialogue Description Generation | arxiv |
 | Abstractive Meeting Summarization Using Dependency Graph Fusion | WWW15 |
 | Summarizing Decisions in Spoken Meetings | ACL11 |
+|Plans Toward Automated Chat Summarization|ACL11|
 
 ## Pre-train Based
 | Paper | Conference |
@@ -56,6 +59,11 @@
 | 基于文档语义图的中文多文档摘要生成机制|(2009)|
 | Event-Centric Summary Generation| (2004) |
 
+## Framework
+| Paper | Conference |
+| :---: | :---: |
+|LeafNATS: An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization|NAACL19|
+
 ## Cross-Lingual
 | Paper | Conference |
 | :---: | :---: |
@@ -85,6 +93,7 @@
 ## Dataset
 | Paper | Conference |
 | :---: | :---: |
+|Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization|EMNLP19|
 |Learning towards Abstractive Timeline Summarization|IJCAI19|
 | auto-hMDS: Automatic Construction of a Large Heterogeneous Multilingual Multi-Document Summarization Corpus | |
 | Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
@@ -123,14 +132,33 @@ Audio and Video | EMNLP17 |
 |Learning towards Abstractive Timeline Summarization|IJCAI19|
 
 
+## Decoder
+| Paper | Conference |
+| :---: | :---: |
+|Abstractive Document Summarization via Bidirectional Decoder|ADMA18|
+
+
 ## Others
 | Paper | Conference |
 | :---: | :---: |
-|Mem2Mem-Learning to Summarize Long Texts with Memory-to-Memory Transfer|ICLR20 under review|
+|Contrastive Attention Mechanism for Abstractive Sentence Summarization|EMNLP19|
+|Answers Unite! Unsupervised Metrics for Reinforced Summarization Models|EMNLP19|
+|Extractive Summarization of Long Documents by Combining Global and Local Context|EMNLP19|
+|Deep Reinforcement Learning with Distributional Semantic Rewards for Abstractive Summarization|EMNLP19|
+|Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses|EMNLP19|
+|An Entity-Driven Framework for Abstractive Summarization|EMNLP19|
+|Concept Pointer Network for Abstractive Summarization|EMNLP19|
 | Countering the Effects of Lead Bias in News Summarization via Multi-Stage Training and Auxiliary Losses | EMNLP19 |
 | Neural Extractive Text Summarization with Syntactic Compression | EMNLP19 |
-|Inducing Document Structure for Aspect-based Summarization|ACL19|
-|Summary Refinement through Denoising | RANLP 2019|
+|Neural Extractive Text Summarization with Syntactic Compression|EMNLP19|
+|Reading Like HER: Human Reading Inspired Extractive Summarization|EMNLP19|
+|BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle|EMNLP19|
+|Abstract Text Summarization: A Low Resource Challenge|EMNLP19|
+|Attention Optimization for Abstractive Document Summarization|EMNLP19|
+|Discourse-Aware Neural Extractive Model for Text Summarization||
+|Mem2Mem-Learning to Summarize Long Texts with Memory-to-Memory Transfer|ICLR20 under review|
+| Inducing Document Structure for Aspect-based Summarization|ACL19|
+| Summary Refinement through Denoising | RANLP 2019|
 |Generating Summaries with Topic Templates and Structured Convolutional Decoders|ACL19|
 |Sentence Centrality Revisited for Unsupervised Summarization|ACL19|
 |BiSET: Bi-directional Selective Encoding with Template for Abstractive Summarization|ACL19|

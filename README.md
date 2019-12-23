@@ -1,5 +1,11 @@
 # What I Have Read
 
+> Read papers in other fields whenever possible.
+> 
+> Read papers from other conferences whenever possible.
+> 
+> Read as many papers as possible.
+
 * [What I Have Read](#what-i-have-read)
   * [Slides](#slides)
      * [Summarization](#Summarization)
@@ -31,7 +37,6 @@
 * [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
 
 ### Presentation
-
 * [Event Extraction](slides/presentation/Event%20Extraction.pdf)
 * [Meta Learning](slides/presentation/Meta%20Learning.pdf)
 * [Advanced pre-training language models a brief introduction](slides/presentation/Advanced%20pre-training%20language%20models%20a%20brief%20introduction.pdf)
@@ -40,6 +45,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf)
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf)
 * [NIPS19-Episodic Memory in Lifelong Language Learning](slides/paper-slides/Episodic%20Memory%20in%20Lifelong%20Language%20Learning.pdf)
 * [ACL19-Dynamically Fused Graph Network for Multi-hop Reasoning](slides/paper-slides/Dynamically%20Fused%20Graph%20Network%20for%20Multi-hop%20Reasoning.pdf)
