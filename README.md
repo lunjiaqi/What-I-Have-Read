@@ -45,6 +45,7 @@
 * [Non-Autoregressive Decoding](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ### Paper slides
+* [ICLR20-Plug and Play Language Model- A Simple Baseline for Controlled Language Generation](slides/paper-slides/Plug%20and%20Play%20Language%20Model-%20A%20Simple%20Baseline%20for%20Controlled%20Language%20Generation.pdf)
 * [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf)
 * [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf)
 * [NIPS19-Episodic Memory in Lifelong Language Learning](slides/paper-slides/Episodic%20Memory%20in%20Lifelong%20Language%20Learning.pdf)

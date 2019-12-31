@@ -1,9 +1,23 @@
 # Natural Language Generation
 
 
+## Knowledge
+| Paper | Conference |
+| :---: | :---: |
+| Text Generation from Knowledge Graphs with Graph Transformers | NAACL19 |
+|The WebNLG Challenge: Generating Text from RDF Data|INLG17|
+
+
+## Knowledge-Enhanced
+| Paper | Conference |
+| :---: | :---: |
+|Story Ending Generation with Incremental Encoding and Commonsense Knowledge|AAAI19|
+|Commonsense Knowledge Aware Conversation Generation with Graph Attention|IJCAI 2018|
+
 ## Question Generation
 | Paper | Conference |
 | :---: | :---: |
+|Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation|ICLR20|
 | Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling | ACL19 |
 | Let’s Ask Again: Refine Network for Automatic Question Generation | EMNLP19 |
 | Reinforced Dynamic Reasoning for Conversational Question Generation | ACL19 |
@@ -37,6 +51,7 @@
 ## Other
 | Paper | Conference |
 | :---: | :---: |
+|Plug and Play Language Model- A Simple Baseline for Controlled Language Generation|ICLR20|
 | PaperRobot: Incremental Draft Generation of Scientific Ideas | ACL19 |
 | Hierarchical Recurrent Attention Network for Response Generation | AAAI18 |
 

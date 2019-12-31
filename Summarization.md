@@ -115,6 +115,7 @@
 | :---: | :---: |
 | How2: A Large-scale Dataset for Multimodal Language Understanding|NIPS18|
 | Multimodal Abstractive Summarization for How2 Videos | ACL19 |
+| Multi-modal sentence summarization with modality attention and image filtering | IJCAI18 |
 | Multimodal Abstractive Summarization for Open-Domain Videos | |
 | Multi-modal Summarization for Asynchronous Collection of Text, Image,
 Audio and Video | EMNLP17 |
@@ -141,6 +142,8 @@ Audio and Video | EMNLP17 |
 ## Others
 | Paper | Conference |
 | :---: | :---: |
+|Improving Abstractive Text Summarization with History Aggregation||
+|Co-opNet: Cooperative Generator–Discriminator Networks for Abstractive Summarization with Narrative Flow||
 |Contrastive Attention Mechanism for Abstractive Sentence Summarization|EMNLP19|
 |Answers Unite! Unsupervised Metrics for Reinforced Summarization Models|EMNLP19|
 |Extractive Summarization of Long Documents by Combining Global and Local Context|EMNLP19|
