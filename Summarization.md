@@ -138,6 +138,13 @@ Audio and Video | EMNLP17 |
 | :---: | :---: |
 |Abstractive Document Summarization via Bidirectional Decoder|ADMA18|
 
+## AAAI20
+| Paper | Conference |
+| :---: | :---: |
+|Controlling the Amount of Verbatim Copying in Abstractive Summarization||
+|Joint Parsing and Generation for Abstractive Summarization||
+|Weakly-Supervised Opinion Summarization by Leveraging External Information||
+
 
 ## Others
 | Paper | Conference |

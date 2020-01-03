@@ -25,6 +25,7 @@
 ## Heterogeneous information network (HIN)
 | Paper | Conference |
 | :---: | :---: |
+|Heterogeneous Graph Learning for Visual Commonsense Reasoning|NIPS19|
 | Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation  | KDD19 |
 | Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification|EMNLP19|
 | Heterogeneous Graph Attention Network | WWW19 |
@@ -33,6 +34,7 @@
 ## Graph-to-Sequence
 | Paper | Conference |
 | :---: | :---: |
+| Modeling Graph Structure in Transformer for Better AMR-to-Text Generation | EMNLP19 |
 | Graph Transformer for Graph-to-Sequence Learning | AAAI20 |
 | Coherent Comment Generation for Chinese Articles with a Graph-to-Sequence Model | ACL19 |
 | Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning | TACL19 |
