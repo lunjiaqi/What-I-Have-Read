@@ -32,6 +32,7 @@
 ## Pre-train Based
 | Paper | Conference |
 | :---: | :---: |
+|TED:A PRETRAINED UNSUPERVISED SUMMARIZATION MODEL WITH THEME MODELING AND DENOISING||
 | Make Lead Bias in Your Favor- A Simple and Effective Method for News Summarization |ICLR20 under review |
 | Text Summarization with Pretrained Encoders | EMNLP19 |
 | HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization | ACL19 |
@@ -82,6 +83,7 @@
 ## Unsupervised
 | Paper | Conference |
 | :---: | :---: |
+|TED:A PRETRAINED UNSUPERVISED SUMMARIZATION MODEL WITH THEME MODELING AND DENOISING||
 | Abstractive Document Summarization without Parallel Data ||
 | Unsupervised Neural Single-Document Summarization of Reviews via Learning Latent Discourse Structure and its Ranking | ACL19 |
 | MeanSum : A Neural Model for Unsupervised Multi-Document Abstractive Summarization|ICML19|
