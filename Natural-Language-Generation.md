@@ -28,7 +28,6 @@
 | Paper | Conference |
 | :---: | :---: |
 | Automatic Dialogue Summary Generation for Customer Service |KDD19|
-| Â | ACL19 |
 | Let’s Ask Again: Refine Network for Automatic Question Generation | EMNLP19 |
  
 

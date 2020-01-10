@@ -4,10 +4,8 @@
 ## Relational Graph Convolutional Networks
 | Paper | Conference |
 | :---: | :---: |
-|Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution
-|ACL 2019 Workshop on Gender Bias|
-| Composition-based Multi-Relational Graph Convolutional Networks
-| ICLR20 under review|
+|Look Again at the Syntax: Relational Graph Convolutional Network for Gendered Ambiguous Pronoun Resolution|ACL 2019 Workshop on Gender Bias|
+| Composition-based Multi-Relational Graph Convolutional Networks| ICLR20 under review|
 | End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion|AAAI19|
 | Modeling Relational Data with Graph Convolutional Networks||
 | A Vectorized Relational Graph Convolutional Network for Multi-Relational Network Alignment|IJCAI19|
