@@ -1,10 +1,5 @@
 # What I Have Read
 
-> Read papers in other fields whenever possible.
-> 
-> Read papers from other conferences whenever possible.
-> 
-> Read as many papers as possible.
 
 * [What I Have Read](#what-i-have-read)
   * [Slides](#slides)
@@ -35,6 +30,7 @@
 * [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
 * [文本摘要简述](slides/presentation/文本摘要简述.pdf)
 * [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
+* [EMNLP19 Summarization](slides/notes/EMNLP19_Summarization.pdf)
 
 ### Presentation
 * [Event Extraction](slides/presentation/Event%20Extraction.pdf)
