@@ -2,6 +2,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation|TACL19|
 |Make Lead Bias in Your Favor- A Simple and Effective Method for News Summarization||
 |DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation||
 | What Does BERT Look At? An Analysis of BERT’s Attention | EMNLP19 |

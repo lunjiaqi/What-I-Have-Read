@@ -4,13 +4,15 @@
 ## Knowledge
 | Paper | Conference |
 | :---: | :---: |
+| Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs||
 | Text Generation from Knowledge Graphs with Graph Transformers | NAACL19 |
-|The WebNLG Challenge: Generating Text from RDF Data|INLG17|
+| The WebNLG Challenge: Generating Text from RDF Data|INLG17|
 
 
 ## Knowledge-Enhanced
 | Paper | Conference |
 | :---: | :---: |
+|A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation|TACL19|
 |Story Ending Generation with Incremental Encoding and Commonsense Knowledge|AAAI19|
 |Commonsense Knowledge Aware Conversation Generation with Graph Attention|IJCAI 2018|
 

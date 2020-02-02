@@ -14,11 +14,11 @@
 ## Dialogue 
 | Paper | Conference |
 | :---: | :---: |
-|【Abstractive】SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization||
-|【Extractive】Legal Summarization for Multi-role Debate Dialogue via Controversy Focus Mining and Multi-task Learning|CIKM19|
+|SAMSum Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization|EMNLP19|
+|Legal Summarization for Multi-role Debate Dialogue via Controversy Focus Mining and Multi-task Learning|CIKM19|
 | Automatic Dialogue Summary Generation for Customer Service |KDD19|
 | Topic-aware Pointer-Generator Networks for Summarizing Spoken Conversations |ASRU19 |
-| Abstractive Dialog Summarization with Semantic Scaffolds | ICLR20 under review |
+| Abstractive Dialog Summarization with Semantic Scaffolds ||
 | Keep Meeting Summaries on Topic: Abstractive Multi-Modal Meeting Summarization | ACL19 |
 | Abstractive Meeting Summarization via Hierarchical Adaptive Segmental Network Learning | WWW19 |
 | Unsupervised Abstractive Meeting Summarization with Multi-Sentence Compression and Budgeted Submodular Maximization | ACL18 |
@@ -46,6 +46,7 @@
 ## Multi-Document
 | Paper | Conference |
 | :---: | :---: |
+|Generating Representative Headlines for News Stories|WWW20|
 | Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization | EMNLP19 |
 | Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization|ACL19|
 | Multi-News: a Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model | ACL19 |
