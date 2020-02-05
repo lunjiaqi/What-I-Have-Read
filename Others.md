@@ -6,6 +6,7 @@
 | :---: | :---: |
 | LAnguage MOdeling for Lifelong Language Learning|ICLR20|
 | Episodic Memory in Lifelong Language Learning | NIPS19 |
+| Toward Continual Learning for Conversational Agents ||
 
 | Paper | Conference |
 | :---: | :---: |
