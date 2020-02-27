@@ -2,6 +2,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model |ICLR20|
 |A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation|TACL19|
 |Make Lead Bias in Your Favor- A Simple and Effective Method for News Summarization||
 |DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation||
