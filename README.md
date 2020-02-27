@@ -12,6 +12,7 @@
   * [Cross-Lingual](./Cross-Lingual.md)
   * [Meta Learning Papers](./Meta-Learning.md)
   * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
+  * [Recommendation](./Recommendation.md)
   * [Generative Adversarial Networks (GAN)](./Generative-Adversarial-Networks.md)
   * [Knowledge Distillation](./Knowledge-Distillation.md)
   * [Pre-train Based](./Pre-train-Based.md)
