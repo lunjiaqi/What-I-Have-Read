@@ -141,6 +141,10 @@ Audio and Video | EMNLP17 |
 |Joint Parsing and Generation for Abstractive Summarization||
 |Weakly-Supervised Opinion Summarization by Leveraging External Information||
 
+## Code
+| Paper | Conference |
+| :---: | :---: |
+|Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning|WWW20|
 
 ## Others
 | Paper | Conference |
