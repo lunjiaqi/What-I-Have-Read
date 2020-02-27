@@ -23,6 +23,7 @@
 ## Heterogeneous information network (HIN)
 | Paper | Conference |
 | :---: | :---: |
+|An Attention-based Graph Neural Network for Heterogeneous Structural Learning|AAAI20|
 |Heterogeneous Graph Learning for Visual Commonsense Reasoning|NIPS19|
 | Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation  | KDD19 |
 | Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification|EMNLP19|
