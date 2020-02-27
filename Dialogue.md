@@ -3,7 +3,6 @@
 
 | Paper | Conference |
 | :---: | :---: |
-
 | Low-Resource Knowledge-Grounded Dialogue Generation |ICLR20|
 | Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering |AAAI20|
 | Clustering-based Summarization of Transactional Chatbot Logs||
