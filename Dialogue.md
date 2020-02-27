@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Guiding attention in Sequence-to-sequence models for Dialogue Act prediction|AAAI20|
 |“Wait, I’m Still Talking!” Predicting the Dialogue Interaction Behavior Using Imagine-Then-Arbitrate Model||
 | Low-Resource Knowledge-Grounded Dialogue Generation |ICLR20|
 | Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering |AAAI20|
