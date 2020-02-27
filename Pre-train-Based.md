@@ -1,11 +1,20 @@
 # Pre-train Based
 
+
+
+## Knowledge
+
 | Paper | Conference |
 | :---: | :---: |
+|K-ADAPTER: Infusing Knowledge into Pre-Trained Models with Adapters||
 |Pretrained Encyclopedia: Weakly Supervised Knowledge-Pretrained Language Model |ICLR20|
 |A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation|TACL19|
-|Make Lead Bias in Your Favor- A Simple and Effective Method for News Summarization||
-|DIALOGPT:Large-Scale Generative Pre-training for Conversational Response Generation||
+
+
+| Paper | Conference |
+| :---: | :---: |
+|Make Lead Bias in Your Favor : A Simple and Effective Method for News Summarization||
+|DIALOGPT : Large-Scale Generative Pre-training for Conversational Response Generation||
 | What Does BERT Look At? An Analysis of BERT’s Attention | EMNLP19 |
 |SpanBERT: Improving Pre-training by Representing and Predicting Spans||
 |XLNet: Generalized Autoregressive Pretraining for Language Understanding||
