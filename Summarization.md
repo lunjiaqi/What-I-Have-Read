@@ -1,15 +1,6 @@
 # Summarization
 
-* [Summarization](#summarization)
-  * [Multi-Document](#multi-document)
-  * [Cross-Lingual](#cross-lingual)
-  * [Pre-train Based](#pre-train-based)
-  * [Unsupervised](#unsupervised)
-  * [Dataset](#dataset)
-  * [Multi-modal](#multi-modal)
-  * [Meeting](#meeting)
-  * [Concept-map-based](#concept-map-based)
-  * [Related](#related)
+
 
 ## Dialogue 
 | Paper | Conference |
@@ -46,6 +37,7 @@
 ## Multi-Document
 | Paper | Conference |
 | :---: | :---: |
+|GameWikiSum : a Novel Large Multi-Document Summarization Dataset|LREC20|
 |Generating Representative Headlines for News Stories|WWW20|
 | Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization | EMNLP19 |
 | Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization|ACL19|
@@ -96,6 +88,7 @@
 ## Dataset
 | Paper | Conference |
 | :---: | :---: |
+|GameWikiSum : a Novel Large Multi-Document Summarization Dataset|LREC20|
 |Summary Cloze: A New Task for Content Selection in Topic-Focused Summarization|EMNLP19|
 |Learning towards Abstractive Timeline Summarization|IJCAI19|
 | auto-hMDS: Automatic Construction of a Large Heterogeneous Multilingual Multi-Document Summarization Corpus | |
