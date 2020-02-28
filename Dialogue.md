@@ -18,5 +18,5 @@
 | Commonsense knowledge aware conversation generation with graph attention|IJCAI18|
 |“Chitty-Chitty-Chat Bot”: Deep Learning for Conversational AI|IJCAI18|
 | Knowledge Diffusion for Neural Dialogue Generation|ACL18|
-
+|​ Anaphora Resolution for Twitter Conversations: An Exploratory Study ||
 
