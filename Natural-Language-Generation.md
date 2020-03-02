@@ -12,6 +12,8 @@
 ## Knowledge-Enhanced
 | Paper | Conference |
 | :---: | :---: |
+|Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering
+|AAAI20|
 |A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation|TACL19|
 |Story Ending Generation with Incremental Encoding and Commonsense Knowledge|AAAI19|
 |Commonsense Knowledge Aware Conversation Generation with Graph Attention|IJCAI 2018|
@@ -31,6 +33,10 @@
 | :---: | :---: |
 | Automatic Dialogue Summary Generation for Customer Service |KDD19|
 | Let’s Ask Again: Refine Network for Automatic Question Generation | EMNLP19 |
+|Generating Long and Informative Reviews with Aspect-Aware Coarse-to-Fine Decoding||
+|A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation||
+|Strategies for Structuring Story Generation||
+|Plan-And-Write: Towards Better Automatic Storytelling||
  
 
 ## Non-autoregressive
