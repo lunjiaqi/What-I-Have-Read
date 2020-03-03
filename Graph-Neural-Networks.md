@@ -23,6 +23,8 @@
 ## Heterogeneous information network (HIN)
 | Paper | Conference |
 | :---: | :---: |
+|Author Name Disambiguation on Heterogeneous Information Network with Adversarial Representation Learning|AAAI20|
+|Graph-Driven Generative Models for Heterogeneous Multi-Task Learning|AAAI20|
 |An Attention-based Graph Neural Network for Heterogeneous Structural Learning|AAAI20|
 |Heterogeneous Graph Learning for Visual Commonsense Reasoning|NIPS19|
 | Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation  | KDD19 |
@@ -49,9 +51,9 @@
 ## QA
 | Paper | Conference |
 | :---: | :---: |
+|Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering|AAAI20|
 | Dynamically Fused Graph Network for Multi-hop Reasoning|ACL19|
 | Cognitive Graph for Multi-Hop Reading Comprehension at Scale |ACL19|
-
 
 # Others
 | Paper | Conference |
