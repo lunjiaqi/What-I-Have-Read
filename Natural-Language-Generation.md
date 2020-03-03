@@ -12,8 +12,7 @@
 ## Knowledge-Enhanced
 | Paper | Conference |
 | :---: | :---: |
-|Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering
-|AAAI20|
+|Improving Knowledge-aware Dialogue Generation via Knowledge Base Question Answering|AAAI20|
 |A Knowledge-Enhanced Pretraining Model for Commonsense Story Generation|TACL19|
 |Story Ending Generation with Incremental Encoding and Commonsense Knowledge|AAAI19|
 |Commonsense Knowledge Aware Conversation Generation with Graph Attention|IJCAI 2018|
