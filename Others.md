@@ -16,3 +16,11 @@
 | Growing Story Forest Online from Massive Breaking News|CIKM17|
 
 
+## Discourse
+| Paper | Conference |
+| :---: | :---: |
+|基于实体网格的语篇表示模型研究||
+|Disentangling Chat with Local Coherence Models|ACL11|
+|Modeling Local Coherence: An Entity-Based Approach||
+
+
