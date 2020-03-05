@@ -2,6 +2,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|Data Augmentation using Pre-trained Transformer Models||
 | Do Not Have Enough Data? Deep Learning to the Rescue! | AAAI20 |
 |XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering||
 |Conditional BERT Contextual Augmentation|ICCS19|
