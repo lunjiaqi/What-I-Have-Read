@@ -24,6 +24,7 @@
 | Paper | Conference |
 | :---: | :---: |
 |Author Name Disambiguation on Heterogeneous Information Network with Adversarial Representation Learning|AAAI20|
+|Spam Review Detection with Graph Convolutional Networks|CIKM19|
 |Graph-Driven Generative Models for Heterogeneous Multi-Task Learning|AAAI20|
 |An Attention-based Graph Neural Network for Heterogeneous Structural Learning|AAAI20|
 |Heterogeneous Graph Learning for Visual Commonsense Reasoning|NIPS19|
