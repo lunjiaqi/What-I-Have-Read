@@ -106,6 +106,39 @@
 |A Discourse-Aware Attention Model for Abstractive Summarization of Long Documents|NAACL18|
 |Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps|EMNLP17|
 
+## Dataset
+|ID|Name|Description|Paper|
+|----|--------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 1  | CNN\-DailyMail                       | 新闻领域摘要           | Abstractive Text Summarization using Sequence\-to\-sequence RNNs and Beyond                                               |
+| 2  | New York Times                       | 新闻领域摘要           | The New York Times Annotated Corpus                                                                                       |
+| 3  | DUC                                  | 新闻领域摘要           | The Effects Of Human Variation In DUC Summarization Evaluation                                                            |
+| 4  | Gigaword                             | 新闻领域摘要           | A Neural Attention Model For Abstractive Sentence Summarization                                                           |
+| 5  | Newsroom                             | 新闻领域摘要           | Newsroom: A Dataset of 1\.3 Million Summaries with Diverse Extractive Strategies                                          |
+| 6  | Xsum                                 | 新闻领域摘要           | Don’t Give Me the Details, Just the Summary\! Topic\-Aware Convolutional Neural Networks for Extreme Summarization        |
+| 7  | Multi\-News                          | 新闻领域多文档摘要        | Multi\-News: a Large\-Scale Multi\-Document Summarization Dataset and Abstractive Hierarchical Model                      |
+| 8  | SAMSum                               | 多人闲聊摘要           | SAMSum Corpus: A Human\-annotated Dialogue Dataset for Abstractive Summarization                                          |
+| 9  | AMI                                  | 会议摘要             | The AMI Meeting Corpus: A pre\-announcement\.                                                                             |
+| 10 | ICSI                                 | 会议摘要             | The ICSI Meeting Corpus                                                                                                   |
+| 11 | MSMO                                 | 图片多模态摘要          | MSMO: Multimodal Summarization with Multimodal Output                                                                     |
+| 12 | How2                                 | 视频多模态摘要          | How2: A Large\-scale Dataset for Multimodal Language Understanding                                                        |
+| 13 | ScisummNet                           | 科学文献摘要           | ScisummNet: A Large Annotated Corpus and Content\-Impact Models for Scientific Paper Summarization with Citation Networks |
+| 14 | PubMed、ArXiv                         | 科学文献摘要           | "A Discourse\-Aware Attention Model for Abstractive Summarization of Long Documents                                       | " |
+| 15 | TALKSUMM                             | 科学文献摘要           | TALKSUMM: A Dataset and Scalable Annotation Method for Scientiﬁc Paper Summarization Based on Conference Talks            |
+| 16 | BillSum                              | 法律领域摘要           | BillSum: A Corpus for Automatic Summarization of US Legislation                                                           |
+| 17 | LCSTS                                | 中文微博短文本摘要        | LCSTS: A Large Scale Chinese Short Text Summarization Dataset                                                             |
+| 18 | WikiHow                              | 在线知识库领域摘要        | WikiHow: A Large Scale Text Summarization Dataset                                                                         |
+| 19 | Concept\-map\-based MDS Corpus       | 教育领域多文档摘要        | Bringing Structure into Summaries : Crowdsourcing a Benchmark Corpus of Concept Maps                                      |
+| 20 | WikiSum                              | 维基百科领域多文档摘要      | Generating Wikipedia By Summarizing Long Sequence                                                                         |
+| 21 | GameWikiSum                          | 游戏领域多文档摘要        | GameWikiSum : a Novel Large Multi\-Document Summarization Dataset                                                         |
+| 22 | En2Zh CLS、Zh2En CLS                  | 英文到中文、中文到英语跨语言摘要 | NCLS: Neural Cross\-Lingual Summarization                                                                                 |
+| 23 | Timeline Summarization Dataset       | 百度百科人物领域时间线摘要    | Learning towards Abstractive Timeline Summarization                                                                       |
+| 24 | Reddit TIFU                          | 在线讨论领域摘要         | "Abstractive Summarization of Reddit Posts with Multi\-level Memory Networks                                              | " |
+| 25 | TripAtt                              | 评论领域摘要           | Attribute\-aware Sequence Network for Review Summarization                                                                |
+| 26 | Reader Comments Summarization Corpus | 基于评论的微博文本摘要      | Abstractive Text Summarization by Incorporating Reader Comments                                                           |
+| 27 | BIGPATENT                            | 专利领域生成式摘要        | BIGPATENT: A Large\-Scale Dataset for Abstractive and Coherent Summarization                                              |
+
+
+
 ## Multi-modal
 | Paper | Conference |
 | :---: | :---: |
