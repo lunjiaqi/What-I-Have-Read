@@ -23,6 +23,7 @@
 ## Pre-train Based
 | Paper | Conference |
 | :---: | :---: |
+|Learning by Semantic Similarity Makes Abstractive Summarization Better||
 |TED:A PRETRAINED UNSUPERVISED SUMMARIZATION MODEL WITH THEME MODELING AND DENOISING||
 | Make Lead Bias in Your Favor- A Simple and Effective Method for News Summarization |ICLR20 under review |
 | Text Summarization with Pretrained Encoders | EMNLP19 |
@@ -178,6 +179,11 @@ Audio and Video | EMNLP17 |
 | Paper | Conference |
 | :---: | :---: |
 |Leveraging Code Generation to Improve Code Retrieval and Summarization via Dual Learning|WWW20|
+
+## Strcuture
+| Paper | Conference |
+| :---: | :---: |
+|StructSum: Incorporating Latent and Explicit Sentence Dependencies for Single Document Summarization||
 
 ## Others
 | Paper | Conference |
