@@ -23,6 +23,7 @@
 ## Heterogeneous information network (HIN)
 | Paper | Conference |
 | :---: | :---: |
+|Heterogeneous Graph Transformer|WWW20|
 |Author Name Disambiguation on Heterogeneous Information Network with Adversarial Representation Learning|AAAI20|
 |Spam Review Detection with Graph Convolutional Networks|CIKM19|
 |Graph-Driven Generative Models for Heterogeneous Multi-Task Learning|AAAI20|
