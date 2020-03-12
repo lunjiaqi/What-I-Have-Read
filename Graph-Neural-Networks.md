@@ -20,7 +20,7 @@
 | Graph U-Nets | ICML19 |
 | Self-attention graph pooling | ICML19 |
 
-## Heterogeneous information network (HIN)
+## Heterogeneous Information Network (HIN)
 | Paper | Conference |
 | :---: | :---: |
 |☆ Heterogeneous Graph Transformer|WWW20|
