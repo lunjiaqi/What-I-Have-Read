@@ -23,15 +23,15 @@
 ## Heterogeneous information network (HIN)
 | Paper | Conference |
 | :---: | :---: |
-|Heterogeneous Graph Transformer|WWW20|
+|☆ Heterogeneous Graph Transformer|WWW20|
 |Author Name Disambiguation on Heterogeneous Information Network with Adversarial Representation Learning|AAAI20|
 |Graph-Driven Generative Models for Heterogeneous Multi-Task Learning|AAAI20|
-|An Attention-based Graph Neural Network for Heterogeneous Structural Learning|AAAI20|
-|Spam Review Detection with Graph Convolutional Networks|CIKM19|
+|☆ An Attention-based Graph Neural Network for Heterogeneous Structural Learning|AAAI20|
+|☆ Spam Review Detection with Graph Convolutional Networks|CIKM19|
 |Heterogeneous Graph Learning for Visual Commonsense Reasoning|NIPS19|
 | Metapath-guided Heterogeneous Graph Neural Network for Intent Recommendation  | KDD19 |
-| Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification|EMNLP19|
-| Heterogeneous Graph Attention Network | WWW19 |
+| ☆ Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification|EMNLP19|
+| ☆ Heterogeneous Graph Attention Network | WWW19 |
 
 
 ## Graph-to-Sequence
