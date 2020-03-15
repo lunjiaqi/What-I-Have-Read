@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs|ACL19|
 |Guiding attention in Sequence-to-sequence models for Dialogue Act prediction|AAAI20|
 |“Wait, I’m Still Talking!” Predicting the Dialogue Interaction Behavior Using Imagine-Then-Arbitrate Model||
 | Low-Resource Knowledge-Grounded Dialogue Generation |ICLR20|
