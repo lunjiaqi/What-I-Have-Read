@@ -5,6 +5,7 @@
 | Paper | Conference |
 | :---: | :---: |
 |[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||
+|[Mind The Facts: Knowledge-Boosted Coherent Abstractive Text Summarization](https://www.microsoft.com/en-us/research/uploads/prod/2019/10/Fact_Aware_Abstractive_Text_Summarization.pdf)||
 
 ## Dialogue 
 | Paper | Conference |
