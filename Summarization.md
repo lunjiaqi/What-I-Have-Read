@@ -1,6 +1,10 @@
 # Summarization
 
 
+## Knowledge 
+| Paper | Conference |
+| :---: | :---: |
+|[Boosting Factual Correctness of Abstractive Summarization with Knowledge Graph](https://arxiv.org/abs/2003.08612)||
 
 ## Dialogue 
 | Paper | Conference |
