@@ -1,5 +1,7 @@
 # Data Augmentation
 
+Slides: [Data Augmentation](slides/presentation/Data_Augmentation.pdf)
+
 | Paper | Conference |
 | :---: | :---: |
 | ☆ Data Augmentation using Pre-trained Transformer Models||
