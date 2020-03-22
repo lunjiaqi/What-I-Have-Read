@@ -8,7 +8,6 @@
      * [Paper slides](#paper-slides)
      * [Notes](#notes)
   * [Summarization](./Summarization.md)
-  * [Unsupervised](./Unsupervised.md)
   * [Cross-Lingual](./Cross-Lingual.md)
   * [Meta Learning](./Meta-Learning.md)
   * [Graph Neural Networks (GNN)](./Graph-Neural-Networks.md)
