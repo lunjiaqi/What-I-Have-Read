@@ -1,5 +1,6 @@
 # Generative Adversarial Networks
 
+[GAN in Text Generation](slides/notes/GAN%20in%20Text%20Generation.pdf)
 
 | Paper |  Conference |
 | :---: | :---: |
