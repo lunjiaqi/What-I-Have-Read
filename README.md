@@ -18,7 +18,6 @@
   * [Pre-trained Language Models](./Pre-train-Based.md)
   * [Multi Modal](./Multi-Modal.md)
   * [Natural Language Generation](./Natural-Language-Generation.md)
-  * [Imitation Learning](./Imitation-Learning.md)
   * [Textual Adversarial Attack and Defense](./Textual-Adversarial-Attack-and-Defense.md)
   * [Data Augmentation](./Data-Augmentation.md)
   * [Others](./Others.md)
