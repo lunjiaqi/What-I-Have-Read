@@ -1,5 +1,7 @@
 # Knowledge Distillation
 
+[Knowledge Distillation Slides](slides/presentation/Knowledge%20Distillation.pdf)
+
 | Paper | Conference |
 | :---: | :---: |
 |Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention|ACL19|

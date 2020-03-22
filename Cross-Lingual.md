@@ -1,5 +1,7 @@
 # Cross-Lingual
 
+[Cross-Lingual Slides](./slides/notes/x-lingual-v1.0.pdf)
+
 | Paper | Conference |
 | :---: | :---: |
 | A survey of cross-lingual word embedding models||

@@ -1,5 +1,6 @@
 # Graph Neural Networks (GNN)
 
+[Graph Neural Networks Slides](slides/presentation/Graph%20Neural%20Networks.pdf)
 
 ## Relational Graph Convolutional Networks
 | Paper | Conference |

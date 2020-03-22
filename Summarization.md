@@ -1,6 +1,13 @@
 # Summarization
 
 
+* [Summarization](slides/notes/Brief-intro-to-summarization.pdf)
+* [文本摘要简述](slides/presentation/文本摘要简述.pdf)
+* [ACL19 Summarization](slides/presentation/ACL19%20Summarization.pdf)
+* [EMNLP19 Summarization](slides/notes/EMNLP19_Summarization.pdf)
+* [ACL19-A Simple Theoretical Model of Importance for Summarization](slides/paper-slides/A%20Simple%20Theoretical%20Model%20of%20Importance%20for%20Summarization.pdf)
+* [ACL19-Multimodal Abstractive Summarization for How2 Videos](slides/paper-slides/Multimodal%20Abstractive%20Summarization%20for%20How2%20Videos.pdf)
+
 ## Knowledge 
 | Paper | Conference |
 | :---: | :---: |

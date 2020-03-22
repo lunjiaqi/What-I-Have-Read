@@ -1,5 +1,6 @@
 # Natural Language Generation
 
+[Non-Autoregressive Decoding Slides](slides/presentation/Non-Autoregressive%20Decoding.pdf)
 
 ## Knowledge
 | Paper | Conference |
@@ -42,6 +43,15 @@
 | Paper | Conference |
 | :---: | :---: |
 | Mask-Predict: Parallel Decoding of Conditional Masked Language Models | EMNLP19|
+| Levenshtein Transformer | |
+| Insertion-based Decoding with automatically Inferred Generation Order | |
+| KERMIT: Generative Insertion-Based Modeling for Sequences ||
+| Non-Monotonic Sequential Text Generation | ICML19 |
+| Insertion Transformer: Flexible Sequence Generation via Insertion Operations |ICML19 |
+| Sequence Generation: From Both Sides to the Middle |IJCAI19 |
+| Correct-and-Memorize:Learning to Translate from Interactive Revisions | IJCAI19 |
+| Non-Autoregressive Neural Machine Translation | ICLR18 |
+| The Importance of Generation Order in Language Modeling | EMNLP18 |
 
 ## New model
 | Paper | Conference |

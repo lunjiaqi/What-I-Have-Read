@@ -1,5 +1,7 @@
 # Meta Learning
 
+[Meta Learning Slides](slides/presentation/Meta%20Learning.pdf)
+
 | Paper | Conference |
 | :---: | :---: |   
 |Hierarchically Structured Meta-learning|ICML19|
