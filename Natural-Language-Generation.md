@@ -64,6 +64,12 @@
 |Incremental Transformer with Deliberation Decoder for Document Grounded Conversations|ACL19|
 |Story Ending Generation with Incremental Encoding and Commonsense Knowledge|AAAI19|
 
+## Poetry Generation
+| Paper | Conference |
+| :---: | :---: |
+|[Generating Chinese Poetry from Images via Concrete and Abstract Information](https://arxiv.org/abs/2003.10773)|IJCNN 2020|
+|[MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space](https://arxiv.org/abs/2003.06094)|AAAI20|
+
 ## Other
 | Paper | Conference |
 | :---: | :---: |
