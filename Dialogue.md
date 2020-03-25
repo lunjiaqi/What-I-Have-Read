@@ -3,6 +3,7 @@
 
 | Paper | Conference |
 | :---: | :---: |
+|[Mask & Focus: Conversation Modeling by Learning Concepts](https://arxiv.org/abs/2003.04976)|AAAI20|
 |OpenDialKG: Explainable Conversational Reasoning with Attention-based Walks over Knowledge Graphs|ACL19|
 |Guiding attention in Sequence-to-sequence models for Dialogue Act prediction|AAAI20|
 |“Wait, I’m Still Talking!” Predicting the Dialogue Interaction Behavior Using Imagine-Then-Arbitrate Model||
