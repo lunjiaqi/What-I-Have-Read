@@ -31,6 +31,7 @@
 ## Two-stage Generation
 | Paper | Conference |
 | :---: | :---: |
+|[Encode, Tag, Realize: High-Precision Text Editing](https://arxiv.org/abs/1909.01187)|EMNLP19|
 | Automatic Dialogue Summary Generation for Customer Service |KDD19|
 | Let’s Ask Again: Refine Network for Automatic Question Generation | EMNLP19 |
 |Generating Long and Informative Reviews with Aspect-Aware Coarse-to-Fine Decoding||
