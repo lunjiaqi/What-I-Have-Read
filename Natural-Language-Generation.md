@@ -68,6 +68,7 @@
 ## Poetry Generation
 | Paper | Conference |
 | :---: | :---: |
+|[Generating Major Types of Chinese Classical Poetry in a Uniformed Framework](https://arxiv.org/abs/2003.11528)||
 |[Generating Chinese Poetry from Images via Concrete and Abstract Information](https://arxiv.org/abs/2003.10773)|IJCNN 2020|
 |[MixPoet: Diverse Poetry Generation via Learning Controllable Mixed Latent Space](https://arxiv.org/abs/2003.06094)|AAAI20|
 
