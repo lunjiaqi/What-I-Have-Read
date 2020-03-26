@@ -4,6 +4,7 @@ Slides: [Data Augmentation](slides/presentation/Data_Augmentation.pdf)
 
 | Paper | Conference |
 | :---: | :---: |
+|[Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)||
 | ☆ Data Augmentation using Pre-trained Transformer Models||
 | ☆ Do Not Have Enough Data? Deep Learning to the Rescue! | AAAI20 |
 |XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering||
